@@ -1,6 +1,9 @@
-## Membership
+1. All dues must be paid 20 working days after the start of the **Society**'s financial year.
 
-Club Members: $100
-Individual Members: $20
+2. The dues for respective **Member** types are:
 
-This policy will be reviewed 12 months after incorporation. 
+    1. $100 per annum for **Club Member**s, and
+
+    2. $20 per annum for **Individual Members**
+
+3. This policy must be reviewed 12 months after incorporation.

@@ -1,8 +1,19 @@
-This document outlines what is required of a endorsed event. 
+1. Any **Member** may request for an event that they are organising to be endorsed by the national body.
 
-- Events may request to be endorsed by the national body. 
-- Endorsed events must report all near misses etc. 
-    - If our supplied policy failed, required to have a redo. 
-    - If our supplied policy was not observed, what do? Organiser is required to show ability to run compliant event. 
+2. Requests for endorsement must be directed to the **Secretary**, and the **Committee** will respond within ten working days.
 
-If endorsed entitled to use national body's name and collatoral, and apply for related grants. 
+3. The **Committee** will whether to endorse the event based on
+
+    1. The event's documentation is present and compliance with the **Society**'s policy.
+    2. The **Committee**'s judgement on whether the event will run in compliant with the **Society**'s policy.
+    3. The **Committee**'s judgement on whether endorsing the event will bring the **Society** into disrepute.
+
+4. The **Committee** will respond in writing with a notification of success or failure, and if appropriate will provide actionable steps to bring future event applications into compliance.
+
+5. Endorsed events must report all near misses and incidents to the **Committee**.
+
+6. Endorsed events are entitled to:
+
+    1. Use the **Society**'s name and collatoral.
+    2. Apply for related grants.
+    3. Have the **Society** announce the endorsement to **Member**s.

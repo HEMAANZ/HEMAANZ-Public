@@ -30,6 +30,8 @@
         
    4. Avoid situations with your participants that could be construed as inappropriate.
 
+   5. Take responsibility for ensuring relevant health and safety practices are followed.
+
    
 
 3. **Participants**  
