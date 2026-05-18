@@ -1,3 +1,7 @@
+# Event Policy
+
+## Process
+
 1. Any **Member** may request for an event that they are organising to be endorsed by the national body.
 
 2. Requests for endorsement must be directed to the **Secretary**, and the **Committee** will respond within ten working days.
@@ -10,9 +14,12 @@
 
 4. The **Committee** will respond in writing with a notification of success or failure, and if appropriate will provide actionable steps to bring future event applications into compliance.
 
-5. Endorsed events must report all near misses and incidents to the **Committee**.
 
-6. Endorsed events are entitled to:
+## Benefits and Obligations
+
+1. Endorsed events must report all near misses and incidents to the **Committee**.
+
+2. Endorsed events are entitled to:
 
     1. Use the **Society**'s name and collatoral.
     2. Apply for related grants.

@@ -1,4 +1,6 @@
-1. **Everyone**  
+# Code of Conduct
+
+## Everyone  
      
    1. Respect the rights, dignity and worth of others.  
         
@@ -20,7 +22,7 @@
 
    
 
-2. **Officials**  
+## Officials  
      
    1. Be honest and ensure that your authority is not misrepresented.  
         
@@ -34,7 +36,7 @@
 
    
 
-3. **Participants**  
+## Participants  
      
    1. Respect the talent, potential and development of fellow participants.  
         
@@ -54,4 +56,4 @@
 
 If you have a negative experience at one of our events, we fully encourage you to report it using our Incident Report form, anonymously if you wish.
 
-**LINK**
+**LINK TO BE ADDED AT INCORPORATION**
