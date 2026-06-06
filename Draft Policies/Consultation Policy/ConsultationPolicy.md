@@ -8,7 +8,7 @@ The **Committee** includes any **Subcommittee** established by the executive **C
 
 
 ## Consultation Process
-1.  Any **Club Member** or any three **Individual Member**s or the **Committee**  may propose a new policy or modification to policy.
+1.  Any **Club Member** or any three **Individual Member**s or the **Committee** may propose a new policy or modification to policy.
 
 2. Within 20 business days, the **Committee** must meet to determine whether the proposal conflicts with the **Constitution**. If the proposal is in conflict with the **Constitution**, the proposal is dropped and the reasons why communicated to the submitters.
 

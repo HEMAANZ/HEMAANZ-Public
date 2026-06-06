@@ -2,7 +2,7 @@
 
 ## Everyone  
      
-   1. Respect the rights, dignity and worth of others.  
+   1. Respect the rights, dignity, and worth of others.  
         
    2. Provide a safe and friendly environment for the conduct of the activity.  
         
@@ -38,7 +38,7 @@
 
 ## Participants  
      
-   1. Respect the talent, potential and development of fellow participants.  
+   1. Respect the talent, potential, and development of fellow participants.  
         
    2. Show respect and care for your opponents at all times.  
         

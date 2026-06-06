@@ -6,10 +6,10 @@
 
 2. Requests for endorsement must be directed to the **Secretary**, and the **Committee** will respond within ten working days.
 
-3. The **Committee** will whether to endorse the event based on
+3. The **Committee** will decide whether to endorse the event based on:
 
-    1. The event's documentation is present and compliance with the **Society**'s policy.
-    2. The **Committee**'s judgement on whether the event will run in compliant with the **Society**'s policy.
+    1. Whether the event's documentation is present and compliant with the **Society**'s policy.
+    2. The **Committee**'s judgement on whether the event will run in compliance with the **Society**'s policy.
     3. The **Committee**'s judgement on whether endorsing the event will bring the **Society** into disrepute.
 
 4. The **Committee** will respond in writing with a notification of success or failure, and if appropriate will provide actionable steps to bring future event applications into compliance.
@@ -21,6 +21,6 @@
 
 2. Endorsed events are entitled to:
 
-    1. Use the **Society**'s name and collatoral.
+    1. Use the **Society**'s name and collateral.
     2. Apply for related grants.
     3. Have the **Society** announce the endorsement to **Member**s.
