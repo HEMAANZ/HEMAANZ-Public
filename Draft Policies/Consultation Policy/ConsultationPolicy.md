@@ -10,7 +10,7 @@ The **Committee** includes any **Subcommittee** established by the executive **C
 ## Consultation Process
 1.  Any **Club Member** or any three **Individual Member**s or the **Committee** may propose a new policy or modification to policy.
 
-2. Within 20 business days, the **Committee** must meet to determine whether the proposal conflicts with the **Constitution**. If the proposal is in conflict with the **Constitution**, the proposal is dropped and the reasons why communicated to the submitters.
+2. Within 20 business days, the **Committee** must meet to determine whether the proposal conflicts with the **Constitution**, and whether the proposal is within the purview of the **Society**. If the proposal is in conflict with the **Constitution** or is outside the purview of the **Society**, the proposal is dropped and the reasons why communicated to the submitters.
 
 3. Otherwise, the proposal must be communicated to all **Member**s within 10 business days. All **Member**s must have the ability to give feedback and suggestions for change.
 

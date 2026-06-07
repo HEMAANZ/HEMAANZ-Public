@@ -8,16 +8,17 @@
 
 3. The **Committee** will decide whether to endorse the event based on:
 
-    1. Whether the event's documentation is present and compliant with the **Society**'s policy.
-    2. The **Committee**'s judgement on whether the event will run in compliance with the **Society**'s policy.
-    3. The **Committee**'s judgement on whether endorsing the event will bring the **Society** into disrepute.
+    1. Whether the event is relevant to the **Society**'s aims. 
+    2. Whether the event's documentation is present and compliant with all applicable policies of the **Society**'s.
+    3. The **Committee**'s judgement on whether the event will run in compliance with the **Society**'s policy.
+    4. The **Committee**'s judgement on whether endorsing the event will bring the **Society** into disrepute.
 
-4. The **Committee** will respond in writing with a notification of success or failure, and if appropriate will provide actionable steps to bring future event applications into compliance.
+4. The **Committee** will respond in writing with a notification of acceptance or refusal, and if appropriate will provide actionable steps to bring future event applications into compliance.
 
 
 ## Benefits and Obligations
 
-1. Endorsed events must report all near misses and incidents to the **Committee**.
+1. Endorsed events must report all near misses and incidents to the **Committee** with sufficient detail to permit further investigation. 
 
 2. Endorsed events are entitled to:
 
