@@ -4,7 +4,7 @@
 
 ### Name
 
-The name of the **Society** is Historical European Martial Arts New Zealand Incorporated. It may also be referred to as HEMA New Zealand or HEMA NZ.
+The name of the **Society** is Historical European Martial Arts Aotearoa New Zealand Incorporated. It may also be referred to as HEMA Aotearoa New Zealand or HEMAANZ.
 
 
 ### Charitable Status
