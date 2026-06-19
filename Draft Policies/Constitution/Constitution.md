@@ -1,4 +1,4 @@
-# HEMA New Zealand Constitution
+# HEMA Aotearoa New Zealand Constitution
 
 ## Organisational Charter
 
@@ -65,7 +65,7 @@ The **Society** shall have a common seal that must be kept in the custody of an 
 
 - **'Simple Majority'** refers to a vote where 50%+1 votes are cast in favour of a resolution.
 
-- **'Society'** refers to Historical European Martial Arts New Zealand Incorporated.
+- **'Society'** refers to Historical European Martial Arts Aotearoa New Zealand Incorporated.
 
 - **'Special General Meeting'** or **'SGM'** refers to a **General Meeting** of the **Members**, other than an **Annual General Meeting**, called for a specific purpose or purposes.
 
