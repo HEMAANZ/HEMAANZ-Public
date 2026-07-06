@@ -90,7 +90,7 @@ The primary purposes of the **Society** are to enable, promote and advance the p
 
 - As a martial art:
 	- promote safe practices in training and instruction of **HEMA**; and
-	- advocate for practicioners of **HEMA** where appropriate.
+	- advocate for practitioners of **HEMA** where appropriate.
 
 - As a research community:
 	- promote research in **HEMA** and help disseminate it to the community; and
